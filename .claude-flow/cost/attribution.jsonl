@@ -1,6 +1,0 @@
-{"v":1,"endedAt":1794264533725,"reason":"prompt_input_exit","totalUsd":53.427905,"byAgent":{"general-purpose":28.302808,"main":25.125097},"byTool":{"Bash":29.925797,"Write":12.80589,"Edit":4.71333,"Read":2.998089,"(model)":1.43944,"Agent":0.796969,"SubagentHandback":0.555596,"Skill":0.192795},"refusals":0,"budget":null}
-{"v":1,"endedAt":1794264801770,"reason":"prompt_input_exit","totalUsd":53.427905,"byAgent":{"main":53.427905},"byTool":{"(model)":53.427905},"refusals":0,"budget":null}
-{"v":1,"endedAt":1794265051287,"reason":"prompt_input_exit","totalUsd":53.427905,"byAgent":{"main":53.427905},"byTool":{"(model)":53.427905},"refusals":0,"budget":null}
-{"v":1,"endedAt":1794266342901,"reason":"other","totalUsd":0.201675,"byAgent":{"main":0.201675},"byTool":{"(model)":0.201675},"refusals":0,"budget":null}
-{"v":1,"endedAt":1794289475626,"reason":"other","totalUsd":0.192415,"byAgent":{"main":0.192415},"byTool":{"(model)":0.192415},"refusals":0,"budget":null}
-{"v":1,"endedAt":1794290248178,"reason":"prompt_input_exit","totalUsd":99.79871,"byAgent":{"main":99.79871},"byTool":{"Bash":79.814306,"Read":12.790018,"Write":7.194385},"refusals":0,"budget":null}
